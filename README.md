@@ -13,7 +13,7 @@
 | II       | Cybersecurity (CS)                                               | 2 | 1 | - | - | E  | 6       |
 | II       | Program Verification (PV)                                        | 2 | 1 | - | - | E  | 6       |
 | II       | Optional 2                                                       | 2 | 1 | - | - | E  | 6       |
-| II       | Practică Industriala/De Cercetare                                | - | 2 | - | - | V  | 6       |
+| II       | Practical Training                                               | - | 2 | - | - | V  | 6       |
 
 
 ### Year II
