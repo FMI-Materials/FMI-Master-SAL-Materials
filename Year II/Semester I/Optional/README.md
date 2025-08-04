@@ -1,18 +1,19 @@
 # Optionale
 
-- Data Warehousing & Business Intelligence
-- [Cloud Computing](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20II/Semester%20I/Cloud%20Computing)
-- [Testarea Sistemelor Software](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20II/Semester%20I/Testarea%20Sistemelor%20Software)
-- Managementul Echipelor De Dezvoltare Software
-- [Topici Speciale In Inginerie Software 1](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20II/Semester%20I/Topici%20Speciale%20In%20Inginerie%20Software%201)
-- Deep Learning
-- Information Retrieval And Text Mining
-- Natural Language Processing 2
-- Programare Paralela Si Concurenta (topici avansate): Programarea Procesoarelor Grafice
-- Algoritmi Paraleli Si Distribuiti
-- Distributed Data Engineering
-- Machine Translation
-- Special Topics In Computational Linguistic
-- Cybersecurity
-- Complex Network Analysis
-- Algoritmi Evolutivi Multi-obiectiv. Aplicatii In Modelarea Invatarii nesupervizate
+- Sisteme De Baze De Date
+- [Programare Web Utilizand Tehnologii Java](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20I/Programare%20Web%20Utilizand%20Tehnologii%20Java)
+- Data Mining Si Knowledge Discovery
+- [Proiectarea Algoritmilor Eficienti](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Proiectarea%20Algoritmilor%20Eficienti)
+- Modelarea Si Analiza Sistemelor Software
+- [Managementul Si Organizarea Proiectelor Software](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Managementul%20Si%20Organizarea%20Proiectelor%20Software)
+- Practical Machine Learning
+- Probabilistic Programming
+- Knowledge Representations And Reasoning
+- Programare Paralela
+- Exploratory Data Analysis
+- Foundations Of Natural Language Processing
+- Linguistics For Computer Science
+- Anomaly Detection
+- LLMs And Cognition
+- Asocierea Operatiunilor De Securitate Cibernetica
+- Modeling And Solving Combinatorial Problems With Constraints

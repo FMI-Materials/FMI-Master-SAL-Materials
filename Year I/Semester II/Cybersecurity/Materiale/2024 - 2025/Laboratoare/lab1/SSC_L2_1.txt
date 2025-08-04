@@ -1,0 +1,14 @@
+en
+conf t
+hostname RanetA
+enable secret ranetenablepass
+line console 0
+password ranetconsolepass
+line vty 0 15
+password ranettelnetpass
+interface fa0/0
+ip address 10.0.0.1 255.255.255.252
+no sh
+interface fa0/1
+ip address 192.168.0.254 255.255.255.192
+no sh

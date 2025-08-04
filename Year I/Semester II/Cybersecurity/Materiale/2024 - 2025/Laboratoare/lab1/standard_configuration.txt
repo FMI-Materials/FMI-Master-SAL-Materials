@@ -1,0 +1,31 @@
+Comenzi configurare echipamente:
+
+en
+conf term  --nivelul necesar pentru diferite setari
+Router(config)#no ip domain-lookup  -- disable translatarea domain in ip (prevent the router from trying to resolve incorrectly pasted commands);
+Router(config)#service password-encryption --parolele sunt salvate criptat
+!!!Router(config)#security passwords min-length 10
+!!!Router(config)#login block-for 120 attempts 3 within 60
+Router(config)#enable password cisco54321 -- parola pentru accesul la comenzile din "conf t"
+Router(config)#enable secret cisco12345 --un level mai ridicat de securitate fata de enable pasword (parola criptata)
+Router(config)#banner login #Accesul persoanelor neautorizate interzis!# --mesajul inainte de autentificare
+Router(config)#banner motd #Vineri la ora 16 serverul intra in mentenanta!#  --message-of-the-day mesajul dupa autentificare
+
+Router(config)#line console 0 --parola pe portul de consola
+Router(config-line)#password ciscoconpass
+Router(config-line)#login
+Router(config-line)#logging synchronous -- pentru afisarea mesajelor de logging
+Router(config-line)#exec-timeout 0 0
+
+Router(config-line)#line vty 0 15 --parola pentru telnet
+Router(config-line)#password ciscovtypass
+Router(config-line)#login
+Router(config-line)#logging synchronous
+Router(config-line)#exec-timeout 0 0
+
+
+Router(config)#no cdp run -- cdp protocol de level 2 trimite pachete pentru a isi identifica vecinii;
+
+A(config-if)#description "legatura cu X"
+
+
