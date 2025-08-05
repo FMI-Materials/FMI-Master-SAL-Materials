@@ -6,9 +6,9 @@
 - [Proiectarea Algoritmilor Eficienti](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Proiectarea%20Algoritmilor%20Eficienti)
 - Modelarea Si Analiza Sistemelor Software
 - [Managementul Si Organizarea Proiectelor Software](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Managementul%20Si%20Organizarea%20Proiectelor%20Software)
-- Practical Machine Learning
-- Probabilistic Programming
-- Knowledge Representations And Reasoning
+- [Practical Machine Learning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Practical%20Machine%20Learning)
+- [Probabilistic Programming](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
+- [Knowledge Representations And Reasoning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
 - Programare Paralela
 - Exploratory Data Analysis
 - Foundations Of Natural Language Processing
